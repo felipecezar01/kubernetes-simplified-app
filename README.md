@@ -4,7 +4,11 @@
 
 Então, decidi experimentar o **NestJS** achando que ia simplificar as coisas… mas olha só isso aqui:
 
-![Estrutura do Projeto](caminho/para/sua/imagem.png)
+
+<div align="center">
+  <img src="nestfinish.png" alt="Estrutura do Projeto" />
+</div>
+
 
 Começando por tentar uma conexão básica entre o Docker e o banco de dados, e o Nest já chega jogando um monte de requisitos e diretórios na sua frente. Parece que, para ele funcionar, precisa de um monte de coisas extras: `dist`, `node_modules`, `backend`, `app.module.ts`, `main.ts`, `package.json` e uma série de outros arquivos. Tudo para algo que era pra ser simples.
 
